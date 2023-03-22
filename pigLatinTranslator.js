@@ -65,3 +65,4 @@ function pigTransPhrase(sentance) {
 //
 
 pigTransPhrase('i like big butts and i cannot lie');
+document.querySelectorAll('p.sampleClass')[0].innerText = pigTransPhrase('testing the command');
